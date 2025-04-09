@@ -1,4 +1,8 @@
-### Hi there 👋
+I'm passionate about Data Analysis, Data Engineering and Data Scientist. My skills includes:
+
+SQL ETL Pipelines
+Data Warehouse
+Python Web Scraping(BeautifulSoup / Selenium)
 
 <!--
 **shomaielkhan/shomaielkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
