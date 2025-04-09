@@ -1,7 +1,7 @@
-I'm passionate about Data Analysis, Data Engineering and Data Scientist. My skills includes:
+I'm passionate about Data Analysis, Data Engineering and Data Science. My skills includes:
 
 SQL ETL Pipelines
-Data Warehouse
+Data Warehouse and
 Python Web Scraping(BeautifulSoup / Selenium)
 
 <!--
