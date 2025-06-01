@@ -1,8 +1,7 @@
-I'm passionate about Data Analysis, Data Engineering and Data Science. My skills includes:
+I'm a final year student of Computer Science, passionate about Data analysis & science.
 
-SQL ETL Pipelines
-Data Warehouse and
-Python Web Scraping(BeautifulSoup / Selenium)
+My Key skills and expertise are in SQL, PYTHON, Data Analysis, Visualization, Data Warehouse
+Tools: Matplotlib - Seaborn - Pandas - Numpy - SQL Server - Excel - 
 
 <!--
 **shomaielkhan/shomaielkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
